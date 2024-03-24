@@ -35,3 +35,39 @@ What you'll learn
 What you'll do
 
 -Build a class diagram for your feature from the previous task
+
+# Task Three: Improve Inventory System
+
+1-2 hours
+
+Intermediate: Improve a simple inventory system for adding and removing objects
+
+What you'll learn
+
+- How to write a header file in C++ and how they are structured
+
+What you'll do
+
+- Complete a quick knowledge check to confirm your understand what a header file is in C++
+
+- Create a header file with a class definition for each object from your class diagram
+
+# Task Four: Character Creators
+
+1-2 hours
+
+Introductory: Describe how you would create a modular character creator like that used in The Sims
+
+What you'll learn
+
+- How to create a patch for a change to an existing game file
+
+- How to optimize code in a collaborative game development environment
+
+What you'll do
+
+- Meet Samantha, a Next-Gen Program Manager at Electronic Arts
+
+- Create a patch for a bugfix in the Sims 4
+
+- Use a vector instead of a C style array to optimize the codebase
